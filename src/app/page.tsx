@@ -99,7 +99,7 @@ const AnimatedText = () => {
       height={2}
     >
       {/* eslint-disable-next-line react/no-unescaped-entities */}
-      AanuOluwapo & Oluwaseyi's Engraced Union - June 22, 2024
+      Aanu & Seyi's Engraced - June 22, '24
       <meshStandardMaterial
         color="#FFFFFF"
         roughness={0.1}

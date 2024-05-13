@@ -9,15 +9,15 @@ import BGMPlayer from "@/components/BGMPlayer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://sophia-imran.vercel.app"),
+  metadataBase: new URL("https://aanuoluwapo-idowu.vercel.app"),
   title: "Aanu & Seyi: A Journey to Forever",
   description: "A tale of two hearts becoming one.",
   openGraph: {
     type: "website",
     description: "A tale of two hearts becoming one.",
     title: "Aanu & Seyi: A Journey to Forever",
-    url: "https://sophia-imran.vercel.app",
-    images: ["https://i.imgur.com/v38BnmG.png"],
+    url: "https://aanuoluwapo-idowu.vercel.app",
+    images: ["https://imgur.com/a/jSTu3sE"],
   },
 };
 
