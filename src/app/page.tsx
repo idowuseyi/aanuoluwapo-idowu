@@ -99,7 +99,7 @@ const AnimatedText = () => {
       height={2}
     >
       {/* eslint-disable-next-line react/no-unescaped-entities */}
-      Aanu & Seyi Ennonled - June 22, '24
+      Aanu & Seyi Ennobled - June 22, '24
       <meshStandardMaterial
         color="#FFFFFF"
         roughness={0.1}
